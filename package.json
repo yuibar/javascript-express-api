@@ -14,6 +14,7 @@
   "license": "MIT",
   "main": "nodejs/main.js",
   "scripts": {
-    "ampt:migrate": "./nodejs/main.js"
+    "ampt:migrate": "./nodejs/main.js",
+    "ampt:test": "./nodejs/main.js"
   }
 }
